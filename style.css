@@ -1,0 +1,21 @@
+header{
+    display: flex;
+    justify-content: space-between;
+    flex-direction: row-reverse;
+    background-color: rgb(31, 212, 212); 
+}
+
+img{
+    width: 100px;
+}
+.text a{
+    text-decoration: none;
+    color: black;
+}
+
+.text{
+    display: flex;
+    align-items: center;
+    gap: 6px;
+    margin-right: 10px;
+}
